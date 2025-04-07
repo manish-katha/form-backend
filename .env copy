@@ -1,2 +1,2 @@
-MONGO_URI = mongodb+srv://nodejsboy:nodejsboy@crud.ca8tr5b.mongodb.net/?retryWrites=true&appName=crud
+MONGO_URI = mongodb://localhost:27017/
 PORT=5000

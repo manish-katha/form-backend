@@ -1,7 +1,8 @@
 import express from "express";
 import dotenv from "dotenv";
 import { connectDB } from "./config/db.js"; 
-import formrouter from "./routes/formroutes.js";
+import formrouter from "./routes/formRoutes.js";
+
 import cors from 'cors';
 
 dotenv.config();
